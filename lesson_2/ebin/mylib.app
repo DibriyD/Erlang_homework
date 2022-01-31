@@ -1,0 +1,11 @@
+{application,mylib,
+             [{description,"An Erlang mylib library"},
+              {vsn,"1"},
+              {modules,[lesson2_task01,lesson2_task014,lesson2_task02,
+                        lesson2_task04,lesson2_task05,lesson2_task06,
+                        lesson2_task07,lesson2_task08_,lesson2_task09,
+                        lesson2_task10,lesson2_task11,lesson2_task12,
+                        lesson2_task13,lesson2_task15,lesson2_task3,mylib]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]}]}.
